@@ -1,0 +1,17 @@
+{
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^5.2",
+        "nette/utils": "^2.3",
+        "nette/mail": "^2.3",
+        "doctrine/orm": "^2.5",
+        "maatwebsite/excel": "^2.1",
+        "phpoffice/phpword": "^0.16.0",
+        "php-curl-class/php-curl-class": "^8.5"
+    }
+}
